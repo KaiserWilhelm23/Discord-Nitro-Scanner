@@ -1,4 +1,5 @@
 # Discord-Nitro-Scanner
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=2Q6R2RWPT7L6L&no_recurring=0&currency_code=USD)
 
 # This is a working progress!!!! 
 
